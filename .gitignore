@@ -1,4 +1,9 @@
 .venv
+.idea
 python-practice/solutions
 mypackage
 file_handling
+numpy-practice/data.csv
+numpy-practice/Online Sales Data.csv
+.mcp.json
+.claude
