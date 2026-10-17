@@ -1,6 +1,7 @@
 .venv
 .idea
 python-practice/solutions
+python-practice/logs
 mypackage
 file_handling
 numpy-practice/data.csv
